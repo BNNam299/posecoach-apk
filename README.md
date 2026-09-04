@@ -2,7 +2,7 @@
 
 ## Tai ve
 
-**[app-debug.apk](https://github.com/BNNam299/posecoach-apk/raw/main/app-debug.apk)**
+**[PoseCoach-dienthoai.apk](https://github.com/BNNam299/posecoach-apk/raw/main/PoseCoach-dienthoai.apk)**
 
 Mo link nay bang trinh duyet NGAY TREN DIEN THOAI la tai ve cai duoc.
 
